@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "uureetsdvc",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1731855396753,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": true,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "MjQyYjY2NmQ1NzQxNzljZmY2Njc0MzMwZTBkOGEwNzIxYTBjMjNmOWNiMmM5MWFmMzY2OTc5OWFkNmYyYmFmYmNhMWFmMTVlNzQ1ODE5Y2U0YjA5ZmY3MTYyNjA5YjFmMzI0MzI4MzU4NmUzMmIyNzMwNWE3N2YzYWI2NTZjNjI=",
+    "languages": ["en"],
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": ["gatling"],
+    "websocket": null
+  }
+}
